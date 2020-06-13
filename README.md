@@ -3,9 +3,6 @@ Dieses Repository soll dir als Stütze durch "Tarski's World", "Fitch" und "Bool
 Wir übernehmen keine Garantie bzgl. Richtigkeit oder Vollständigkeit!<br/>
 Wir empfehlen dringend die Lösungen nur zur Verifikation deines Ansatzes zu verwenden. Es bringt wirklich viel diese Aufgaben selbst zu lösen!
 
-## Mithilfe erwünscht
-Wie alle Repositories von OttosBinaryKnights lebt auch dieses Repository von Eurer Mitarbeit. Habt ihr eine alternative Lösung oder eine Korrektur für die bisherige Lösung so erstellt bitte ein Issue, oder noch besser: Forked uns und erstellt ein Pull-Request mit Beschreibung eurer Korrektur!
-
 ## Vorlesungshomepage
  * [WS 2015/2016](http://theo.cs.uni-magdeburg.de/lehre/lehre15w/logik/)
  * [WS 2014/2015](http://theo.cs.uni-magdeburg.de/lehre/lehre14w/logik/)
